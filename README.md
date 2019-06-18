@@ -1,2 +1,2 @@
-# Taxi-Data
-Betalab new york taxi data exploration
+# Betalab
+Projects done for Betalab learning module summer 2019
